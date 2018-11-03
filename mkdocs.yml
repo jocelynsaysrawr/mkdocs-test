@@ -1,0 +1,9 @@
+site_name: DevLeague Cyber
+nav:
+  - Home: index.md
+  - Labs:
+    - Notes: notes.md
+    - Virtual Box Setup: virtualBoxSetup.md
+theme:
+  name: 'material'
+
